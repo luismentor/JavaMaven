@@ -1,0 +1,9 @@
+ls: lista
+cd: para entrar
+mkdir: para crear una carpeta
+git init: para inicializar.. aparece en rojo
+git status: para ver el estado
+git add index.html: para agregar el archivo en la
+git commit -m "": es el mensaje del primer comit
+git log: para ver el comit
+clear: limpiar la pantalla
